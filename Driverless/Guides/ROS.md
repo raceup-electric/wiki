@@ -1,0 +1,1 @@
+We use [ROS2 Foxy](https://docs.ros.org/en/foxy/Installation.html).
