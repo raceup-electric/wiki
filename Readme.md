@@ -32,7 +32,7 @@ Ora dopo aver fatto le proprie modifiche in locale per aggiornare vice versa la 
 - Commit and sync 
 - Push (upload delle modifiche fatte in locale)
 ***
-## Regole d'uso 
+## Regole d'uso
 
 In genere una buona prassi per qualsiasi reparto del team sarebbe bello se per ogni topic specifico si facesse un breve paragrafo in cui si dia un overview generica dell'argomento, in modo tale che possa tornare utile anche a reparti diversi da quello di riferimento. 
 Invece al di sotto di tale paragrafo l'idea è quella di scrivere i dettagli tecnici utili a persone interne al reparto. 
