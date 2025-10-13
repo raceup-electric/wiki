@@ -18,7 +18,7 @@ Dopo l’installazione, puoi ripetere il comando `git clone` riportato sopra per
 ***
 ## Gestione Obsidian
 
-Una volta fatto ciò sei finalmente pronto per editare la wiki del team tramite `Obsidian`.
+Una volta fatto ciò sei finalmente pronto per editare la wiki del team tramite [[Obsidian]].
 
 A questo punto per automatizzare la sincronizzazione con la repository online, è necessario scaricare all' interno di `Obsidian` il comunity plugin chiamato "`Git`".  Per farlo vai sull'ingranaggio in basso a sinistra nella schermata principale di `Obsidian`, poi in `Community plugins > Browse` 
 

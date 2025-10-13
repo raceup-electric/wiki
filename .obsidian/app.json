@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "NotSorted"
 }
