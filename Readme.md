@@ -1,4 +1,6 @@
-In questo readme è presente una veloce guida per interfacciarsi al download e all'utilizzo della Wiki di team.
+# README
+
+In questo *readme* è presente una veloce guida per interfacciarsi al download e all'utilizzo della Wiki di team.
 
 Prima di tutto per scaricare questa cartella e poterla editare con obsidian è necessario copiare questo Vault/ repository in una cartella locale nel proprio computer. Per farlo apri un qualsiasi shell/terminale e entra in un percorso in cui desideri archiviare la wiki, dopodichè utilizza il seguente comando:
 
